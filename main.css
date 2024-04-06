@@ -11,21 +11,21 @@ a:hover {color:#f1c24e;}
 audio {display: block; 
     margin: auto; 
     max-width: 1000px;
-    padding: 1% 15%;
+    padding: 0% 15%;
     width: 70%;}
 body {
-    background-color: #343434;
+    background-color: #181818;
     font-family: "Times New Roman", Times, serif;
     font-size: calc(3px + 1vw);
     line-height: calc(1px + 1vh);
     margin: auto;
-    max-width: 1000px;
-    padding: 1% 15%;
+    max-width: 2000px;
+    padding: 0% 15%;
     color: #D8D8D8}
 div.text-hold {
     background-color: #434343;
-    border: 2px solid #D8D8D8; 
-    margin: 3.5% 5%;
+    border: 1px solid #434343; 
+    margin: 3.5% 1%;
     padding: 2%; 
     font-size: calc(7px + 0.5vw); 
     box-sizing: border-box;}
@@ -47,9 +47,8 @@ li.navi {
     padding: 1.5%;}
 main {
     background-color: #181818;
-    border: 2px solid #D8D8D8;
-    line-height: calc(2px + 3vh);
-    padding: 0 8vw 1vh 8vw;}
+    line-height: calc(5px + 3vh);
+    padding: 1vh 8vw 1vh 8vw;}
 nav {
     list-style-type: none; 
     margin: auto; 
@@ -64,16 +63,16 @@ p.spacer {margin-bottom: calc(5px + 5vh);}
 .headings {
     font-variant: small-caps;
     text-align: center;}
-.flex-space {align-self: auto;
-    border: 2px dotted #D8D8D8;
-    margin: 2%;
-    padding: 2%;
-    width:100%;}
 .top {
     background-color: #181818;
-    border: 2px solid #D8D8D8; 
+    border: 1px solid #D8D8D8;
     font-variant: small-caps;
     text-align: center;}
+.sitetop {
+    background-color: #181818;
+     border: 1px 0px solid #181818; 
+    font-variant: small-caps;
+     text-align: center;}
 #flex-container {
     display: flex;
     align-items: baseline;
