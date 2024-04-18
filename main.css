@@ -15,7 +15,7 @@ audio {display: block;
     width: 70%;}
 body {
     background-color: #181818;
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Palatino Linotype", "Times New Roman", Times, serif;
     font-size: calc(3px + 1vw);
     line-height: calc(1px + 1vh);
     margin: auto;
